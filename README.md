@@ -1,1 +1,1 @@
-# az-kub-plex
+# az-kube-plex
